@@ -1,2 +1,3 @@
 Маленький приклад роботи.
-![image](https://github.com/user-attachments/assets/500fefa5-598a-4d52-a879-f128794f540d)
+![image](https://github.com/user-attachments/assets/9fae66e0-8e42-4eb0-a9ad-10360b47a541)
+
